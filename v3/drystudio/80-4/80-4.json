@@ -1,7 +1,7 @@
 {
   "name": "ZHUANG",
-  "vendorId": "0x5AC",
-  "productId": "0x252",
+  "vendorId": "0x6E67",
+  "productId": "0x881",
   "matrix": {"rows": 6, "cols": 15},
   "layouts": {
     "keymap": [
